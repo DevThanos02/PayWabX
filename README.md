@@ -8,17 +8,27 @@ Built using **HTML**, **Tailwind CSS**, and **JavaScript**, this page is designe
 
 ## 🌍 What it Does
 
-### For Indian Users ✅
+</details>
+
+<details><summary>For Indian Users 🇮🇳</summary>
+<br>
+  
 - Shows your **QR code** for UPI payments
 - Option to **download QR** or **copy UPI ID**
 - Smart link to **open installed UPI apps** directly
 
-### For International Users ✅
+</details>
+
+</details>
+
+<details><summary>For International Users ✅</summary>
+<br> 
+  
 - Buttons to:
   - Open your **PayPal** link
   - Visit **Buy Me a Coffee**
   - **Copy Binance Wallet Address**
-
+</details>
 ---
 
 ## 🛠️ Built With
@@ -43,11 +53,15 @@ Built using **HTML**, **Tailwind CSS**, and **JavaScript**, this page is designe
 
 ---
 
-## 📂 How to Deploy on [Vercel](https://vercel.com/)
+## 📂  Deploy Instructions
+</details>
 
-- Step 1: Fork the Repo
+<details><summary>Deploy On Vercel</summary>
+<br>
   
-- Step 2: Deploy on [Vercel](https://vercel.com/)
+• Step 1: Fork the Repo
+  
+•• Step 2: Deploy on [Vercel](https://vercel.com/)
   - Visit [Vercel](https://vercel.com/) and sign up
   - Connect GitHub to Vercel:
       - After logging into Vercel, click on "New Project"
@@ -65,17 +79,6 @@ Built using **HTML**, **Tailwind CSS**, and **JavaScript**, this page is designe
         - `International`: If you only want to deploy International payment methods.
   - Deploy the Branch:
     - After selecting the branch, Vercel will start deploying the branch. You’ll see a progress bar while it builds and deploys the site.
+    - 
+</details>
 
----
-
-## 🙌 Why I Built This
-
-To make it easier for friends, clients, and supporters to receive payments — no matter where they’re from.
-
----
-
-## 🥳 CREDIT
-
-- [TechifyBots](https://github.com/TechifyBots)
-
-- [Dypixx](https://github.com/Dypixx)
