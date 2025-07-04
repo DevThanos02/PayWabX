@@ -1,4 +1,4 @@
-# 💰 [PayWeb](https://youtu.be/TrsXoI-JAW8)
+# 🏦 [PaywabX](https://youtu.be/TrsXoI-JAW8)
 
 A clean and simple webpage to accept payments from both **Indian** and **international** users.
 
@@ -82,3 +82,13 @@ Built using **HTML**, **Tailwind CSS**, and **JavaScript**, this page is designe
     - 
 </details>
 
+## 🏅 **Bot Authors**
+<details>
+    <summary><b>Click Here For Description</b></summary>
+
+|<img width="80" src="https://avatars.githubusercontent.com/u/105407900">|<img width="80" src="https://avatars.githubusercontent.com/u/113664541">|<img width="80" src="https://files.catbox.moe/8bazbx.jpg">|
+|:---:|:---:|:---:|
+|[`DevThanos02`](https://github.com/DevThanos02)|[`Techify Bots`](https://github.com/TechifyBots)|[`Maverick`](https://github.com/M)|
+|Author and DDL, UI Design, More Customs..|Author and Wraps Up Features|Co-Author & Bug Tester|
+
+</details>
